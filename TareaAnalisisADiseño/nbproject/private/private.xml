@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/tareaanalisisadiseño/TareaAnalisisADiseño.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/BaseDatos/Conexiones.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Clases/Paciente.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Clases/Doctor.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Clases/Cita.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Logica/PacienteDAO.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Logica/CitaDAO.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Logica/PacienteControlador.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Logica/DoctorControlador.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaPaciente.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaDoctor.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaAgendarCita.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Logica/DoctorDAO.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/RegistrarDoctorView.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaMenuPrincipal.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaMenuPaciente.java</file>
+            <file>file:/C:/Users/alber/OneDrive/Documentos/NetBeansProjects/TareaAnalisisADiseño/src/Vista/VistaMenuDoctor.java</file>
+        </group>
+    </open-files>
+</project-private>
